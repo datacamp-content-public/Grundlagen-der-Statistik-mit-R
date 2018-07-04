@@ -1,17 +1,17 @@
 ---
   title: "Syntax"
   description: "This is a template chapter."
-  v2: false
+  v2: true
 
 ---
 ## Arithmetische Operationen
 
 ```yaml
-type: TabExercise
+type: NormalExercise
 
 xp: 100
 
-key: 738fe17d20
+key: 0291ab36e2
 
 
 
@@ -23,43 +23,13 @@ Die arithmetischen Grundoperationen, d. h. Addieren, Subtrahieren, Multipliziere
 4*3
 38/2``
 
-Wir können Zahlen in oder Objekte in einer Variablen speichern. Eine Variable kannst du dir als eine Art Name vorstellen, nur deutlich flexibler. Im Gegensatz zu dem Namen eines Menschen, können wir diesen Namen immer wieder umbenennen oder den Inhalt, d.h. die Zahl oder das Objekt, überschreiben. Die Vergabe eines Namens bzw. das Speichern in einer Variablen funktioniert mit einem Zuweisungspfeil. 
-
 Wir befinden uns im OP-Saal. Der Patient ist erst vor Kurzem eingeliefert worden. Der Oberarzt weiß nicht, wo ihm der Kopf steht, deshalb verlässt er sich auf R. Hilf ihm, die folgenden Operationen durchzuführen.
 
-
-
-
-
-
-
-
-
-
-
-
-***
-
-
-
-```yaml
-type: NormalExercise
-
-xp: 50
-
-key: 9eea199c54
-
-
-
-```
-
-
-
 `@instructions`
-Die OP dauert zwei Stunden. Wie viele Sekunden im OP-Saal verbringt der Patient daher?
+Die OP dauert zwei Stunden. Wie viele Sekunden sind das? Verwende mindestens eine arithmetische Operation.
 
 `@hint`
-Eine Stunde hat 60 Minuten, eine Minute besteht aus 60 Sekunden.
+Eine Stunde sind 60 Minuten, eine Minute sind 60 Sekunden.
 
 
 
@@ -74,28 +44,22 @@ Eine Stunde hat 60 Minuten, eine Minute besteht aus 60 Sekunden.
 
 
 
-
-***
-
-
+---
+## Variablen
 
 ```yaml
-type: NormalExercise
+type: TabExercise
 
-xp: 50
+xp: 100
 
-key: 20998ba574
+key: 0bc307ed84
 
 
 
 ```
 
+Wir können Zahlen in oder Objekte in einer Variablen speichern. Eine Variable kannst du dir als eine Art Name vorstellen, nur deutlich flexibler. Im Gegensatz zu dem Namen eines Menschen, können wir diesen Namen immer wieder umbenennen oder den Inhalt, d.h. die Zahl oder das Objekt, überschreiben. Die Vergabe eines Namens bzw. das Speichern in einer Variablen funktioniert mit einem Zuweisungspfeil. 
 
-
-`@instructions`
-Die Identifikationsnummer des Patienten hier im Krankenhaus setzt sich aus der OP-Dauer in Sekunden, dem Vornamen des Patienten und seiner Lieblingsfarbe zusammen.
-
-`@hint`
 
 
 
