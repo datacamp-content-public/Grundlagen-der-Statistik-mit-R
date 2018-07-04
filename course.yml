@@ -1,5 +1,10 @@
 title: Statistik mit R NEU
-description: A description of the course.
+description: Dieser Kurs will keine Statistik-Vorlesung ersetzen oder tiefgehende
+  Statistik-Inhalte erklären. Er wurde konzipiert, um dir grundlegende Statistik mit
+  R beizubringen. Wenn du tiefergehende Fragen hast, besprich diese mit deinen Dozenten,
+  oder schlage im Fachbuch oder im Internet nach. Hilfreiche Links zum Weiterlesen
+  wird es auch hier im Kurs geben. Ich freue mich, dich bei deinen ersten Schritten
+  in R zu begleiten.
 programming_language: r
 from: r-base-prod:v1.0.0
 datasets:
