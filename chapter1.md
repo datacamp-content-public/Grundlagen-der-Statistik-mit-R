@@ -1,5 +1,5 @@
 ---
-  title: "Grundlagen"
+  title: "Syntax"
   description: "This is a template chapter."
-  v2: true
+  v2: false
 
