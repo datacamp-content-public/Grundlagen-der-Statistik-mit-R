@@ -61,7 +61,7 @@ Bob war fleißig und hat in allen Vorlesungen und Seminaren von Prof. Ratistikus
 Was muss er dazu eingeben? Lese die csv-Datei namens 'Studierendenzaehlung.csv' ein und weise sie dem Variablennamen 'Studis' zu.
 
 `@hint`
-Hilfe zu den Funktionen bekommst du mit help('Funktionsname'). Hier wird read.csv2 benötigt und du musst wissen, wie die Variablenzuweisung funktioniert. Beachte auch die Angaben für den Delimiter. Die erste Überschrift ist zu ignorieren. Beachte auch, dass das Arbeitsverzeichnis stimmig sein muss, sonst wird die Datei nicht gefunden.
+Hilfe zu den Funktionen bekommst du mit `help('Funktionsname')`. Hier wird `read.csv2` benötigt und du musst wissen, wie die Variablenzuweisung funktioniert. Beachte auch die Angaben für den Delimiter. Die erste Überschrift ist zu ignorieren. Beachte auch, dass das Arbeitsverzeichnis stimmig sein muss, sonst wird die Datei nicht gefunden.
 
 
 
