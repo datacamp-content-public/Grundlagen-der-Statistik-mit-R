@@ -71,11 +71,11 @@ Studis <- read.csv2("Studierendenzaehlung.csv",sep=",",skip=1)
 ```
 `@sct`
 ```{r}
-test_error()
-test_object("Studis",
-            undefined_msg = "Make sure to define `Studis`!",
-            incorrect_msg = "Have you correctly assigned Studis!")
-success_msg("Awesome! It's considered good style to write spaces either side of the assignment arrow.")
+#test_error()
+#test_object("Studis",
+#            undefined_msg = "Make sure to define `Studis`!",
+#            incorrect_msg = "Have you correctly assigned Studis!")
+#success_msg("Awesome! It's considered good style to write spaces either side of the assignment arrow.")
 ```
 
 
