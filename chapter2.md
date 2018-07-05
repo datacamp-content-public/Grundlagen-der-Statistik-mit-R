@@ -60,6 +60,10 @@ Was muss er dazu eingeben? Lese die csv-Datei namens 'Studierendenzaehlung.csv' 
 `@hint`
 Hilfe zu den Funktionen bekommst du mit `help('Funktionsname')`. Hier wird `read.csv2` benötigt und du musst wissen, wie die Variablenzuweisung funktioniert. Beachte auch die Angaben für den Delimiter. Die erste Überschrift ist zu ignorieren. Beachte auch, dass das Arbeitsverzeichnis stimmig sein muss, sonst wird die Datei nicht gefunden.
 
+`@pre_exercise_code`
+```r
+Studis <- read.csv2("Studierendenzaehlung.csv",sep=",",skip=1)
+```
 
 
 `@solution`
